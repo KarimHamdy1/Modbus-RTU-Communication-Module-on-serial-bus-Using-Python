@@ -10,4 +10,4 @@ Functions available :
     ModbusRead(slaveId)
     ModbusReadNewData()
     
-![Modbus RTU Communication Module](link-to-image)
+![Modbus RTU Communication Module](https://github.com/KarimHamdy1/Modbus-RTU-Communication-Module-on-serial-bus-Using-Python/blob/master/Capture1.PNG?raw=true)
